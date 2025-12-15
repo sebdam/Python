@@ -1,0 +1,31 @@
+# Exemple de trame:
+# {
+#  'ADCO': '000000000000',   # Adresse du compteur
+#  'OPTARIF': 'HC..',        # Option tarifaire HC/BASE
+#  'ISOUSC': '45',           # Intensité souscrite en A
+#  'BASE': '123456789'       # Index heure de base en Wh
+## index option heures creuses
+#  'HCHC': '040177099',      # Index heure creuse en Wh
+#  'HCHP': '035972694',      # index heure pleine en Wh
+## index option EJP
+#  'EJPHN': '035972694',     # index option EJP heures normales en Wh
+#  'EJPHPM': '035972694',    # index option EJP heures de pointe mobile en Wh
+## index option Tempo
+#  'BBRHCJB': '035972694',    # index heures creuse jours bleu en Wh
+#  'BBRHPJB': '035972694',    # index heures pleine jours bleu en Wh
+#  'BBRHCJW': '035972694',    # index heures creuse jours blanc en Wh
+#  'BBRHPJW': '035972694',    # index heures pleine jours blanc en Wh
+#  'BBRHCJR': '035972694',    # index heures creuse jours rouge en Wh
+#  'BBRHPJR': '035972694',    # index heures pleine jours rouge en Wh
+
+#  'PEJP': '30',              # minutes en préavis EJP
+#  'PTEC': 'HP..',            # période tarifaire en cours
+#  'DEMAIN': 'BLEU',          # couleur du lendemain
+
+#  'IINST': '005',           # Intensité instantanée en A
+#  'ADPS': '005',            # Avertissement de dépassement de puissance souscrite, Intensité instantanée en A si dépassement
+#  'IMAX': '090',            # Intensité max
+#  'PAPP': '01289',          # Puissance Apparente, en VA
+#  'MOTDETAT': '000000',     # Mot d'état du compteur
+#  'HHPHC': 'A',             # Horaire Heures Pleines Heures Creuses
+# }

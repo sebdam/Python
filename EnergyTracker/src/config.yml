@@ -1,0 +1,26 @@
+elastic:
+  sendData: true
+  url: https://lom.es.francecentral.azure.elastic-cloud.com
+  api_key: 'M1ctREFKSUJFaHYwM0x3YU55aVk6SVlNZnlPVnRTcXFkMnQ1ZzVkV1JYZw=='
+  conso-index: 'energy-tracker-tick'
+  prod-index: 'energy-tracker-prod'
+  debug: false                   # true permet de logger plus d'information en cas de problème
+
+beem:
+  readData: true
+  interval: 60
+  url: https://api-x.beem.energy/beemapp/
+  user: "sebastien@damiens-cerf.com"
+  pwd: "Louenn1610!"
+  debug: false                   # true permet de logger plus d'information en cas de problème
+
+linky:
+  readData: true
+  interval: 0                  # temps de pause entre trames : 300 secondes
+  legacy_mode: false           # Mode TIC historique = true, sinon false
+  checksum_method: 2           # Mode de calcul du checksum : 1 ou 2, se référer à la notice ENEDIS
+  keys: ['PRM', 'PREF', 'EAST', 'EASF01', 'EASF02', 'EAIT', 'SINSTS']  # Liste des étiquettes à récupérer via la téléinfo
+  debug: false                 # true permet de logger plus d'information en cas de problème
+
+raspberry:
+  stty_port: '/dev/ttyAMA0'    # Port série du Raspberry Pi
