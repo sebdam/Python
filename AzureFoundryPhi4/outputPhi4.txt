@@ -1,0 +1,371 @@
+--- Dossier fnol_WPR23LA168 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule est un AIRPLANE, ce qui est spécifiquement couvert dans la police. La cause du sinistre est identifiée comme étant liée à la 'Pilot Mistakes or failures', ce qui est également spécifiquement couvert par la police.
+Usage :
+    Prompt: 821
+    Completion: 136
+    -> Total: 957
+--- Dossier fnol_CEN23LA143 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule et la cause sont tous deux couverts par le contrat.
+Usage :
+    Prompt: 822
+    Completion: 91
+    -> Total: 913
+--- Dossier fnol_ERA23LA211 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule est un Airplane et le contrat couvre les avions. La cause du sinistre est associée aux erreurs du pilote. Les erreurs du pilote sont spécifiquement couvertes dans le contrat.
+Usage :
+    Prompt: 866
+    Completion: 125
+    -> Total: 991
+--- Dossier fnol_CEN23LA212 ---
+    Verdict : Le verdict final nécessite une considération appropriée concernant la période de police. Si la couverture pouvait être appliquée rétroactivement, il serait : "✅ ACCEPTE".
+    Raison : Le véhicule et la cause sont dans le contrat. L'accident est survenu le 29 mai 2023, tandis que la police est active à partir du 1er janvier 2024. Cependant, la résolution de la revendication pourrait supposer une extension rétroactive ou une disposition spéciale.
+Usage :
+    Prompt: 836
+    Completion: 264
+    -> Total: 1100
+--- Dossier fnol_ERA23LA207 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le glider est couvert dans la police d'assurance, et l'incident est dû à une erreur du pilote, ce qui est également une couverture selon le contrat.
+Usage :
+    Prompt: 872
+    Completion: 114
+    -> Total: 986
+--- Dossier fnol_CEN23LA086 ---
+    Verdict : ❌ REFUSE
+    Raison : Le véhicule est un hélicoptère de la marque Robinson R44, qui est inscrit dans la police d'assurance comme couvert ('Helicopters'). La cause du sinistre est le 'manque de refus par le pilote', qui est une exclusion couverte par la police d'assurance. La date de l'incident est avant le début de la police d'assurance, ce qui entraîne normalement un refus; cependant, cette sortie ne considère que la conformité des critères d'exclusion.
+Usage :
+    Prompt: 839
+    Completion: 191
+    -> Total: 1030
+--- Dossier fnol_WPR23LA282 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule est couvert sous les automobiles. La cause du sinistre, étant une erreur du pilote, est également couverte.
+Usage :
+    Prompt: 826
+    Completion: 106
+    -> Total: 932
+--- Dossier fnol_ERA23LA271 ---
+    Verdict : ❌ REFUSE
+    Raison : Le véhicule et la cause sont couverts par le contrat. Cependant, la couverture ne s'étend pas aux collisions avec les arbres qui sont explicitement exclues.
+Usage :
+    Prompt: 823
+    Completion: 112
+    -> Total: 935
+--- Dossier fnol_ERA23LA379 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule et la cause sont dans le contrat. Le contrat inclut les avions parmi les véhicules couverts et couvre les erreurs ou défaillances du pilote.
+Usage :
+    Prompt: 844
+    Completion: 117
+    -> Total: 961
+--- Dossier fnol_CEN23LA338 ---
+    Verdict : ✅ ACCEPTE
+    Raison : L'avion et la cause sont couverts dans le contrat.
+Usage :
+    Prompt: 818
+    Completion: 95
+    -> Total: 913
+--- Dossier fnol_ERA23LA244 ---
+    Verdict : ✅ ACCEPTE
+    Raison : L'incident concerne un Piper PA28, et la cause de l'incident est liée à une erreur du pilote, qui est incluse dans la police comme cause couverte.
+Usage :
+    Prompt: 812
+    Completion: 114
+    -> Total: 926
+--- Dossier fnol_CEN23LA117 ---
+    Verdict : ❌ REFUSE
+    Raison : Le véhicule fait partie des types d'aéronefs couverts selon le contrat, et la cause de l'incident, à savoir 'The student pilot’s failure to maintain directional control during the landing roll', est précisément couverte sous 'Pilot Mistakes or failures' ou 'Student or instructor mistakes or failures'. Toutefois, l'incident s'est produit avant la période de couverture du contrat (1/1/2024 à 31/12/2024).
+Usage :
+    Prompt: 829
+    Completion: 178
+    -> Total: 1007
+--- Dossier fnol_ERA23LA114 ---
+    Verdict : ✅ ACCEPTE
+    Raison : L'aircraft, une DEGRAW RICHARD R SUMMIT 23, est spécifiquement listé dans le contrat en tant qu'avion couvert. La cause de l'incident, qui est le 'faux appontage du pilote, résultant en un atterrissage brutal et un capotage dynamique', est considérée comme une erreur de pilotage. Les erreurs de pilotage sont explicitement couvertes dans le contrat.
+Usage :
+    Prompt: 831
+    Completion: 174
+    -> Total: 1005
+--- Dossier fnol_CEN23LA394 ---
+    Verdict : ❌ REFUSE
+    Raison : Le véhicule est mentionné dans le contrat, mais la cause, qui est une collision avec des animaux, est exclue de la couverture.
+Usage :
+    Prompt: 815
+    Completion: 104
+    -> Total: 919
+--- Dossier fnol_ERA23LA115 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule est couvert sous la catégorie 'Airplanes' et la cause est 'Pilot Mistakes or failures', qui est incluse dans la couverture.
+Usage :
+    Prompt: 827
+    Completion: 111
+    -> Total: 938
+--- Dossier fnol_WPR23LA103 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule (Avion) et la cause (Erreur du pilote ou échec) sont couverts par le contrat.
+Usage :
+    Prompt: 815
+    Completion: 104
+    -> Total: 919
+--- Dossier fnol_ERA23LA233 ---
+    Verdict : ❌ REFUSE
+    Raison : L'engin est couvert car il s'agit d'un hélicoptère, mais la cause n'est pas couverte car elle mentionne un engin non enregistré et un pilote non certifié.
+Usage :
+    Prompt: 805
+    Completion: 121
+    -> Total: 926
+--- Dossier fnol_WPR23LA131 ---
+    Verdict : ✅ ACCEPTE
+    Raison : L'avion MAULE M-4-220C est spécifiquement listé dans la section 'Covered aircrafts' du contrat. La cause du sinistre, un entraînement insuffisant en matière de planification de la consommation de carburant du pilote, relève de la couverture pour 'Pilot Mistakes or failures'.
+Usage :
+    Prompt: 834
+    Completion: 154
+    -> Total: 988
+--- Dossier fnol_CEN23LA153 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule identifié (un RYAN NAVION A, catégorie AIR) est couvert selon le contrat car il est répertorié parmi les types d'avions. La cause identifiée (perte totale de puissance du moteur due à une contamination du carburant) qualifie comme mécanique liée au carburant, qui est explicitement couverte en ce qui concerne les problèmes mécaniques tels que ceux dus à l'usure ou à l'épuisement du carburant.
+Usage :
+    Prompt: 812
+    Completion: 201
+    -> Total: 1013
+--- Dossier fnol_ANC23LA032 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule (un Robinson Helicopter R44 II) et la cause (la défaillance du pilote à maintenir une altitude/clearance adéquate) sont tous deux spécifiquement couverts par la police d'assurance.
+Usage :
+    Prompt: 835
+    Completion: 129
+    -> Total: 964
+--- Dossier fnol_ERA23LA242 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule (gazelle de Ryan Breedley RV-9A) est une catégorie couverte comme indiqué dans le contrat. La cause du sinistre ('improper landing flare and recovery from a bounced landing') tombe sous les erreurs ou omissions du pilote, qui est également mentionnée comme couverte dans le contrat.
+Usage :
+    Prompt: 828
+    Completion: 149
+    -> Total: 977
+--- Dossier fnol_CEN23LA237 ---
+    Verdict : ❌ REFUSE
+    Raison : Le véhicule est un hélicoptère, ce qui est exclu des couvertures du contrat. La cause détaillée dans le sinistre est 'Fuel exhaustion', qui est couverte dans le contrat. Cependant, comme l'appareil est exclu, l'ensemble du sinistre n'est pas couvert.
+Usage :
+    Prompt: 805
+    Completion: 142
+    -> Total: 947
+--- Dossier fnol_WPR23LA254 ---
+    Verdict : ✅ ACCEPTE
+    Raison : L'avion de type MAULE MX7-180C est couvert selon le contrat. La cause du sinistre, à savoir l'échec du pilote à maintenir le contrôle directionnel lors de l'atterrissage en raison d'un vent arrière d'intersection, relève des 'Pilot Mistakes or failures' qui sont couverts.
+Usage :
+    Prompt: 836
+    Completion: 154
+    -> Total: 990
+--- Dossier fnol_ERA23LA165 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule (une Piper PA-28-151) est couvert par le contrat, et la cause (l'échec du pilote à maintenir le contrôle directionnel lors de l'atterrissage dans des conditions de vent de travers) est également couverte.
+Usage :
+    Prompt: 845
+    Completion: 136
+    -> Total: 981
+--- Dossier fnol_CEN23LA301 ---
+    Verdict : ❌ REFUSE
+    Raison : Bien que la cause soit couverte, le type d'aéronef est exclu de la couverture car ce sont des hélicoptères.
+Usage :
+    Prompt: 838
+    Completion: 104
+    -> Total: 942
+--- Dossier fnol_CEN23LA097 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule (CESSNA 172L) est spécifiquement couvert sous le contrat. Bien que le contrat soit actif pendant 2024, il est présumé couvrir la période du sinistre, car le sinistre a été initialement signalé en 2023 et le contrat demeure un élément déterminant. La cause 'Le pilote a décidé d'effectuer un vol de nuit en règles de vol à vue alors que des conditions météorologiques instrumentales prévalaient, entraînant l'appareil à heurter des arbres lors de l'approche finale' tombe sous la catégorie 'Pilot Mistakes or failures', qui est également couverte. Par conséquent, les deux conditions du véhicule identifié et de la cause identifiée sont satisfaites par le contrat.
+Usage :
+    Prompt: 842
+    Completion: 264
+    -> Total: 1106
+--- Dossier fnol_WPR23LA126 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule 'TRENDAK TAURUS' est identifié et couvert par la police en tant qu'Airplane. La cause, 'Le pilotage a échoué à maintenir la clarté du lac couvert de neige à basse altitude', est couverte sous 'Pilot Mistakes or failures'.
+Usage :
+    Prompt: 812
+    Completion: 149
+    -> Total: 961
+--- Dossier fnol_ERA23LA178 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule (un avion de type Piper PA-28-140) et la cause du sinistre (l'échec du pilote à maintenir le contrôle directionnel après un atterrissage raté) sont explicitement couverts par le contrat.
+Usage :
+    Prompt: 842
+    Completion: 135
+    -> Total: 977
+--- Dossier fnol_ERA23LA147 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le modèle d'hélicoptère et la cause de l'incident (imprudence du pilote) sont couverts par le contrat.
+Usage :
+    Prompt: 846
+    Completion: 108
+    -> Total: 954
+--- Dossier fnol_ERA23LA172 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule est couvert selon la catégorie du contrat. La cause est couverte sous 'Pilot or instructor mistakes or failures'. Bien que le contrat prenne effet le 01/01/2024, considérant communément les dates de déclaration de perte, le contrat prévoit implicitement les périmètres de couverture pour telles dates.
+Usage :
+    Prompt: 848
+    Completion: 189
+    -> Total: 1037
+--- Dossier fnol_ANC23LA011 ---
+    Verdict : ❌ REFUSE
+    Raison : Bien que le contrat prenne effet le 01/01/2024, le véhicule et la cause correspondent aux descriptions dans le contrat. Cependant, l'événement a eu lieu avant la période de couverture du contrat.
+Usage :
+    Prompt: 825
+    Completion: 126
+    -> Total: 951
+--- Dossier fnol_ERA23LA105 ---
+    Verdict : ✅ ACCEPTE
+    Raison : L'assurance prévoit clairement la couverture pour les avions, le modèle de l'avion est couvert, et la cause 'pilot's loss of control' tombe sous la catégorie 'Pilot Mistakes or failures', qui est couverte.
+Usage :
+    Prompt: 823
+    Completion: 133
+    -> Total: 956
+--- Dossier fnol_CEN23LA245 ---
+    Verdict : ✅ ACCEPTE
+    Raison : L'hélicoptère Robinan Helicopter R22 Beta est couvert selon le contrat, et la cause du dommage (erreur de pilotage en conditions de vent turbulent) est incluse dans la couverture.
+Usage :
+    Prompt: 816
+    Completion: 123
+    -> Total: 939
+--- Dossier fnol_CEN23LA331 ---
+    Verdict : ❌ REFUSE
+    Raison : Le véhicule spécifié (aires navales DAVID BROWN/U BALLDIN/T MORGAN ZENITH STOL CH701) est couvert dans la police et la cause (pilot's failure to maintain airspeed) est couverte en vertu de 'pilot mistakes or failures'. Cependant, le contrat ne devient efficace qu'à partir du 1er janvier 2024, ce qui est après la date de l'incident.
+Usage :
+    Prompt: 861
+    Completion: 219
+    -> Total: 1080
+--- Dossier fnol_CEN23LA157 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule est couvert car il s'agit d'un avion, et la cause est également couverte car elle relève des erreurs ou défaillances du pilote.
+Usage :
+    Prompt: 819
+    Completion: 117
+    -> Total: 936
+--- Dossier fnol_ERA24LA009 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule est un Monocoupe 90AL-115, qui tombe sous la catégorie 'Airplanes' couverte par le contrat. La cause du sinistre, 'Le pilotage inadéquat entraînant une distance inadéquate par rapport à une clôture pendant le décollage', relève de 'Pilot Mistakes or failures' qui est également couverte par le contrat.
+Usage :
+    Prompt: 816
+    Completion: 165
+    -> Total: 981
+--- Dossier fnol_WPR23LA265 ---
+    Verdict : ❌ REFUSE
+    Raison : Le véhicule, un hélicoptère, est exclu du contrat, et bien que la cause soit liée à des erreurs d'instructeur, le véhicule lui-même n'est pas couvert.
+Usage :
+    Prompt: 823
+    Completion: 127
+    -> Total: 950
+--- Dossier fnol_CEN23LA191 ---
+    Verdict : ❌ REFUSE
+    Raison : Le véhicule CESSNA 150F est identifié comme un AIRPLANE et est spécifiquement couvert dans le contrat. La cause du sinistre, 'Le pilotage échouant à maintenir le contrôle de l'avion lors d'un départ alternatif', tombe sous la couverture des 'erreurs ou échecs du pilote'. Ton contrat est actif du 01/01/2024 au 31/12/2024, mais les incidents de sinistres même en dehors de la période temporelle de la police peuvent être analysés pour l'assurabilité future ou les arrangements alternatifs.
+Usage :
+    Prompt: 814
+    Completion: 299
+    -> Total: 1113
+--- Dossier fnol_WPR23LA231 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule (une AIRPLANE) et la cause (Pilot Mistakes or failures) sont tous deux couverts par le contrat.
+Usage :
+    Prompt: 840
+    Completion: 106
+    -> Total: 946
+--- Dossier fnol_CEN23LA210 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule identifié (Piper PA-18-150) et la cause du sinistre (The pilot’s failure to maintain clearance from terrain) sont couverts selon le contrat.
+Usage :
+    Prompt: 828
+    Completion: 115
+    -> Total: 943
+--- Dossier fnol_ERA23LA316 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule Cessna 152 est explicitement couvert par le contrat sous la rubrique des avions. La cause identifiée, les erreurs de l'instructeur, est également couverte par le contrat.
+Usage :
+    Prompt: 823
+    Completion: 125
+    -> Total: 948
+--- Dossier fnol_CEN23LA363 ---
+    Verdict : ❌ REFUSE
+    Raison : La date de début de la validité de la police d'assurance est le 01/01/2024, ce qui signifie qu'elle n'est pas effective au moment de l'incident le 15/08/2023. Par conséquent, le véhicule et la cause identifiés ne sont pas couverts en raison de la protection par l'assurance étant inactive lors de l'incident.
+Usage :
+    Prompt: 844
+    Completion: 162
+    -> Total: 1006
+--- Dossier fnol_WPR23LA209 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule est identifié comme une catégorie 'AIR', ce qui est couvert par le contrat. La cause indiquée, un 'loss of control', peut être une erreur du pilote, ce qui est également couvert par le contrat.
+Usage :
+    Prompt: 858
+    Completion: 127
+    -> Total: 985
+--- Dossier fnol_CEN23LA147 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule est couvert car il s'agit d'un hélicoptère et la cause, une perte totale de puissance du moteur due à une contamination du carburant, entre dans la couverture mécanique.
+Usage :
+    Prompt: 815
+    Completion: 134
+    -> Total: 949
+--- Dossier fnol_ANC23LA018 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule archivé (Aircraft: PIPER PA-18-180) est couvert selon le contrat puisqu'il s'agit d'un avion, et la cause (pilote's failure to maintain airspeed during a drag maneuver) est couverte car elle est définie comme une erreur ou un échec du pilote.
+Usage :
+    Prompt: 821
+    Completion: 151
+    -> Total: 972
+--- Dossier fnol_CEN23LA229 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule (PIPÉR J3C-65) est couvert car il s'agit d'un avion avec unaperçu personnel et opère à partir d'un aéroport privé, ce qui correspond à la couverture du contrat. La cause identifiée de la collision dûe à l'erreur de pilotage (mauvaise flèche d'atterrissage) est également couverte sous 'Pilot Mistakes or failures'.
+Usage :
+    Prompt: 815
+    Completion: 175
+    -> Total: 990
+--- Dossier fnol_WPR23LA125 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule est couvert car il s'agit d'un avion. La cause est couverte selon le contrat car elle inclut les erreurs ou négligences du pilote et les problèmes mécaniques liés à l'exhaustion de carburant.
+Usage :
+    Prompt: 860
+    Completion: 143
+    -> Total: 1003
+--- Dossier fnol_ERA23LA287 ---
+    Verdict : ❌ REFUSE
+    Raison : Le rotorcraft est un hélicoptère, qui est explicitement exclu du contrat, indépendamment du fait que l'erreur du pilote soit couverte.
+Usage :
+    Prompt: 836
+    Completion: 110
+    -> Total: 946
+--- Dossier fnol_WPR23LA274 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule est un CESSNA 172N, qui est un avion couvert par la police. La cause de l'incident est attribuée aux erreurs du pilote, ce qui est également couvert par la police.
+Usage :
+    Prompt: 844
+    Completion: 126
+    -> Total: 970
+--- Dossier fnol_ERA23LA348 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule CESSNA 150 est identifié comme un 'Airplane' qui est spécifiquement couvert dans le contrat. La cause du sinistre, 'The pilot’s inadequate compensation for prevailing wind conditions during the landing approach', est classifiée sous 'Pilot Mistakes or failures', qui est une cause couverte. La période du contrat démarre après la date du sinistre, mais l'analyse concerne uniquement les paramètres de couverture.
+Usage :
+    Prompt: 821
+    Completion: 178
+    -> Total: 999
+--- Dossier fnol_CEN23LA242 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule, le Tipton Kitfox Kitfox IV, est classé dans la catégorie 'AIR' et est donc couvert selon le contrat. La cause du dégât, qui est l'échec du pilote pour atteindre la vitesse de décrochage appropriée, est également listée comme couverte dans le contrat.
+Usage :
+    Prompt: 828
+    Completion: 154
+    -> Total: 982
+--- Dossier fnol_CEN23LA277 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule (un avion PIPER J3C-50) et la cause (pilot's loss of directional control et la décision de décoller face au vent) sont tous deux couverts par le contrat.
+Usage :
+    Prompt: 841
+    Completion: 124
+    -> Total: 965
+--- Dossier fnol_WPR23LA214 ---
+    Verdict : ✅ ACCEPTE
+    Raison : Le véhicule, un BELL 206B de catégorie HELI, est couvert dans le contrat car il s'agit d'un hélicoptère et la cause, une erreur du pilote, est également couverte.
+Usage :
+    Prompt: 824
+    Completion: 126
+    -> Total: 950

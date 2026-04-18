@@ -1,0 +1,8 @@
+{
+    "vehicule_identifie": "AIRPLANES",
+    "vehicule_est_couvert": true,
+    "cause_identifiee": "Pilot Mistakes or failures",
+    "cause_est_couverte": true,
+    "explication": "Le véhicule est un AIRPLANE, ce qui est spécifiquement couvert dans la police. La cause du sinistre est identifiée comme étant liée à la 'Pilot Mistakes or failures', ce qui est également spécifiquement couvert par la police.",
+    "verdict_final": "✅ ACCEPTE"
+}
